@@ -30,10 +30,7 @@ This project demonstrates the use of:
 ---
 
 ## 🎬 Project Video
-<img src="ProjectShow/ProjectVideo.gif" width="500">
-
-```markdown
-![Project Preview](ProjectVideo.gif)
+![Project Video](ProjectShow/ProjectVideo.gif)
 
 ---
 
