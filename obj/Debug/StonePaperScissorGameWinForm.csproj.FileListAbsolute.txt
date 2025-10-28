@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\StonePaperScissorGameWinForm.exe.config
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\StonePaperScissorGameWinForm.exe
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\StonePaperScissorGameWinForm.pdb
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\ReaLTaiizor.dll
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\bin\Debug\ReaLTaiizor.xml
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.Form1.resources
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.Properties.Resources.resources
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePap.9A0AECA6.Up2Date
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.exe
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.pdb
+C:\Users\user\source\repos\StonePaperScissorGameWinForm\StonePaperScissorGameWinForm\obj\Debug\StonePaperScissorGameWinForm.exe.config
